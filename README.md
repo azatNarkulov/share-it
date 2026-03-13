@@ -71,7 +71,7 @@ API requests and examples can be tested using the Postman collection included in
 
 ### Requirements
 
-* Java 17
+* Java 21+
 * Maven
 * Docker (optional)
 
